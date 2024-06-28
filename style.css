@@ -1,0 +1,37 @@
+* {background-color:black} 
+
+.knowledge 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #59C3C3;
+} 
+
+.copy {color: blueviolet;}
+
+h1 {font-family: Arial, Helvetica, sans-serif;}
+
+h2 {
+    text-align: center;
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.currently {
+    display: flex;
+    color:coral;}
+
+ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+P {
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sdat {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
