@@ -1,41 +1,49 @@
-* {background-color: black} 
+* {
+    background-color: black
+}
 
-.knowledge 
-{
+.knowledge {
     display: flex;
     /* border: solid 1px red; */
     flex-direction: row;
     justify-content: space-evenly;
     color: #59C3C3;
     font-size: x-large;
-} 
+}
 
-.photoshop {color: #00C8FF;}
+.photoshop {
+    color: #00C8FF;
+}
 
-.ue4 {color: #B5B9B5;}
+.ue4 {
+    color: #B5B9B5;
+}
 
-h1 {font-family: Arial, Helvetica, sans-serif;
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
     color: blueviolet;
 }
 
 h2 {
-    text-decoration:underline ;
+    text-decoration: underline;
     text-align: center;
-    color:crimson;
-    font-family: 'Courier New', Courier, monospace;   
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .currently {
     display: flex;
-    color:coral;
+    color: coral;
 }
 
-ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-P, .favefood {
-    color:ghostwhite;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+P,
+.favefood {
+    color: ghostwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .sdat {
@@ -44,4 +52,3 @@ P, .favefood {
     text-align: center;
     padding-top: 5%;
 }
-
