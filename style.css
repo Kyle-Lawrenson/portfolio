@@ -2,6 +2,10 @@
     background-color: black
 }
 
+body{
+    flex-wrap: wrap;
+}
+
 .knowledge {
     display: flex;
     /* border: solid 1px red; */
