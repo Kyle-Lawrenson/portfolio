@@ -31,6 +31,17 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+    color: crimson; /* Link color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
+
 .currently {
     display: flex;
     color: coral;
@@ -40,8 +51,7 @@ ul {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-P,
-.favefood {
+ p, .favefood {
     color: ghostwhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
