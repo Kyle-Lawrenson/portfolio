@@ -6,6 +6,12 @@ body{
     flex-wrap: wrap;
 }
 
+#title {
+    justify-content: center;
+    align-items: center;
+    
+}
+
 .knowledge {
     display: flex;
     /* border: solid 1px red; */
