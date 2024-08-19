@@ -14,6 +14,7 @@ body {
 
 .title-container {
     text-align: center;
+    color: white;
 }
 
 .title {
@@ -29,7 +30,6 @@ body {
     letter-spacing: 1px;
     animation: fadeIn 4s ease-in-out;
     text-decoration: none;
-    color: white;
 }
 
 /* Animation */
